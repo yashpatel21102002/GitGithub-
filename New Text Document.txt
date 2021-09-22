@@ -39,5 +39,6 @@ move around directories
 
     after checkouting what u want  to if u want to come back u have to type git checkout master command 
     -git checkout master
+- so we can make as many as branches ///
     
 }
