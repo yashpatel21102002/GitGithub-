@@ -23,5 +23,13 @@ move around directories
     first command is 
     -git init =it will init empty repo into that folder
     -git status = will give info about what changes has been done and all
-    
+    -git add (file name) = now our file will be tracking by git... by this
+    command your repo will be in staging area /
+    {
+        there is three stages of commiting./
+        working directories->git add->staging area -> git commit -> repository
+
+    }
+    -git  commit -m "initial commit"
+    -git log(will give info about history of commit)
 }
