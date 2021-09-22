@@ -36,4 +36,8 @@ move around directories
     --to move around different commits and times there is one hash code
     belonging to every commit copy it and write below command
     -git checkout (hashcode)
+
+    after checkouting what u want  to if u want to come back u have to type git checkout master command 
+    -git checkout master
+    
 }
