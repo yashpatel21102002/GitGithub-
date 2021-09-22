@@ -1,0 +1,19 @@
+Git is very powerfull system its version control system//
+
+// Git and Github is very different things //
+//lets see git commands!
+
+-git --version
+give the version of git
+
+-git config--global user.name "name" 
+will set the name to show the global , mean it will set on global any one can see ur name
+
+-git config--global user.email "email"
+
+-there is another method also 
+
+-git config --global --edit
+
+--> mkdir will make diractory and cd we can change the directories and 
+move around directories
