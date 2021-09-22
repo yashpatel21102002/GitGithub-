@@ -39,16 +39,11 @@ move around directories
 
     after checkouting what u want  to if u want to come back u have to type git checkout master command 
     -git checkout master
-<<<<<<< HEAD
 - so we can make as many as branches ///
-=======
+if u want to make branches command is 
+-git branch (branchname)
+-u can merge two different branches with command of 
+-git merge (branch name)
 
-    //git works on tree structure method//
-    if u want to make branch then command is 
-    git branch (name)
-
-    // if u want to make and switch to that branch command is 
-    -git branch -b (name)//\\
->>>>>>> yash
     
 }
